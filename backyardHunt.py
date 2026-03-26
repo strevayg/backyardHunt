@@ -2,7 +2,7 @@
 #   File: backyardHunt
 #   Purpose: Implementing a game of collection to satisfy
 #       CS118 group project requirements 
-#   Authors: Gabby, Rae, and Nakia 
+#   Authors: Gabby Strevay
 #   Resources:
 #       Link used to implement consisted character movement with key holds
 #           https://www.pygame.org/docs/ref/key.html#:~:text=Using%20bitwise%20operators%20you%20can%20test%20if%20specific%20modifier%20keys%20are%20pressed.&text=Create%20a%20bitmask%20of%20the,to%20impose%20on%20your%20program.&text=When%20the%20keyboard%20repeat%20is,KEYDOWN%20events.
